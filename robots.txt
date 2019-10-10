@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gughumahj.xn--k43a78k.top/sitemap.xml
